@@ -8,10 +8,13 @@ A Ruby script to bruteforce for AWS s3 buckets using different permutations.
 $ ruby "AWS S3 Bucket Finder.rb" <COMPANY> 
 ```
 
-# Authors
+# Updated Authors
+- SecureLinkSolutions
+
+# Orignal Authors
 - http://twitter.com/nahamsec
 - http://twitter.com/JobertAbma
 
 # Changelog 
 
-1.0 - Release
+1.1 - Release

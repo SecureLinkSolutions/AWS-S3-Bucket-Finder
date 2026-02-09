@@ -1,4 +1,4 @@
-# lazys3
+# AWS S3 Bucket Finder
 
 A Ruby script to bruteforce for AWS s3 buckets using different permutations.
 
